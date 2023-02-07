@@ -1,0 +1,8 @@
+Installation of Git
+Creating an account in Github
+git clone - to download existing repository
+git checkout -b branchname - creates a new branch if not existing and switches to the branch specified
+git add filename - to add the file branch
+git commit -m "message" - to commit to staging repository
+git push origin branchname - to push the changes to cloud repository
+
